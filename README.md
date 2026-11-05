@@ -1,2 +1,0 @@
-# Software
-Cuenta de repositorio
